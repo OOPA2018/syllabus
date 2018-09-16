@@ -3,33 +3,24 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/logo.svg" alt="class logo" class="logo"/> Advanced JavaScript syllabus
+# <img src="assets/logo.svg" alt="class logo" class="logo"/> Object-Oriented Programming with Applications syllabus
 
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
+***Acknowledgement: This is a fork of https://github.com/advanced-js/syllabus. If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
 
-* **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
-* **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
-* **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-        * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
-    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [schedule](http://www.meetup.com/hackerhours/events/calendar/))
-   * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
+* **Course:** [MATH11152](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11152.htm)
+* **Lecturer:** Witold Gawlikowicz, [v1wgawli@ed.ac.uk](mailto:v1wgawli@ed.ac.uk)
 
 ## Course Description
 
-Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
+It is a fast paced course starting from C#/.NET basics and quickly moving to more advanced object-oriented concepts and applications spanning numerical methods, computational mathematics and quantitative finance. 
+
+While it's an assignment-only course, the workload is still quite high and every year a few students fail this course. You will need to make sure you work through the tutorial sheets and lecture material regularly to clear-up any doubts as they come up and make the most of the teaching staff's help before heading off to work on the main project during the winter teaching vacation.
 
 Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
 
 ## Prerequisites
 
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](http://samsultan.com/javascript)) or equivalent
-* Understanding of variables, data types, control flow, and basic function usage in JavaScript
-* Strong intermediate knowledge of HTML, and at least basics of CSS
-* Basic jQuery knowledge (DOM interaction like adding/removing elements/classes, etc.)
-
-These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the [Beginner Materials](#beginner-materials).
+* At least one semester of an undergraduate course dedicated to programming (in any language). Understanding of flow control, methods/functions and some basics of data structures. This requirement is for both UG students and PGT students from MSc programmes other than MSc Computational Mathematical Finance.
 
 ## Course Overview
 
@@ -75,10 +66,6 @@ When the pull request is created, you should see a message saying that "the Trav
 
 Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request early as a work-in-progress if you are stuck and want to ask a question.  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
 
-#### Versions
-
-For exercises with multiple Versions (`V1`, `V2`, etc.) listed in the README: these are intended as guidelines for how to complete the assignments in the smallest/simplest possible increments.  You are expected to reach the highest Version for each assignment by the due date. See also: [extra credit](#extra-credit).
-
 ### Requirements
 
 These apply to real life, as well.
@@ -93,14 +80,6 @@ These apply to real life, as well.
     * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
     * For projects, use Object-Oriented Programming.
 * Any borrowed code must be properly [annotated](#instructor).
-
-#### Extra Credit
-
-Bonus points for:
-
-* Automated tests
-* Creativity (as long as requirements are fulfilled)
-* Anything listed under `BONUS` in the README of the exercise.
 
 ## Course Outline
 
@@ -216,62 +195,8 @@ Bonus points for:
         * [Game of Life](http://coderetreat.org/gol)
         * Tic Tac Toe
 
-## Pairing Tips
-
-* Three people is possible, but two works best
-* Agree on an editor and environment that you're both comfortable with
-* The person who's less experienced/comfortable should have more keyboard time
-* Switch who's "driving" regularly
-* Make sure to save the code and send it to both people
-
 ## Resources
 
-### Required Reading
-
-* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-* [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [What’s so great about JavaScript Promises?](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
-
-### Beginner Materials
-
-This class assumes you are confident with this material, but in case you need a brush-up...
-
-* Codecademy – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
-* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
-* [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
-* [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
-* see also – [Other Lists](#other-lists)
-
-### Recommended Reading
-
-* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
-* [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
-* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
-* [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
-* [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
-* [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
-* [Learning Advanced JavaScript slides](http://ejohn.org/apps/learn/) by John Resig
-* [Static Web Apps](http://www.staticapps.org/)
-* [Test-Driven JavaScript Development](http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919) by Christian Johansen
-* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) by Martha Girdler [(video)](https://www.youtube.com/watch?v=iSxNCYcPAFk)
-
-#### Specific Topics
-
-* [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
-* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks @michaelBenin)
-* [HTML5 Rocks](http://www.html5rocks.com)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
-
-#### Other Lists
-
-* [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
-* [Code School](https://www.codeschool.com/paths/javascript)
-* Thoughtbot's [Javascript Trail Map](https://upcase.com/javascript)
-* [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-* [Superhero.js](http://superherojs.com)
-* [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
 
 ### Tools
 
@@ -309,30 +234,14 @@ This class assumes you are confident with this material, but in case you need a 
 * Framework comparison: [TodoMVC](http://todomvc.com)
 * [Testing](https://coderwall.com/p/ntbixw)
 
-### Reference
-
-* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
-* [w3schools](http://www.w3schools.com/jsref/default.asp)
-* [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
-* [Simplified JavaScript Jargon](http://jargon.js.org/)
-
-### More Examples
-
-* [map/reduce](http://jsbin.com/ojapAsUR/2/edit?js) (in [Underscore](http://underscorejs.org/#map))
 
 ## Grading
 
-* Class Participation – 30%
-* Homework – 70%
+* Exam - 0% (this is an assignment-only course)
+* Assignment 1 - 5%
+* Assignment 2 - 15%
+* Final Project – 80%
 
 ## Statements on Plagiarism
 
-### SCPS
 
-> New York University takes plagiarism very seriously and regards it as a form of fraud.  The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.  Penalties for plagiarism range from failure for a paper or course to dismissal from the University.
-
-### Instructor
-
-Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
-
-Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
