@@ -5,7 +5,8 @@ permalink: /
 
 #WORK IN PROGRESS
 
-# <img src="assets/logo.png" alt="class logo" class="logo"/> Object-Oriented Programming with Applications syllabus
+# <img src="assets/logo.png" alt="class logo" class="logo"/> 
+# Object-Oriented Programming with Applications syllabus
 
 ***Acknowledgement: This is a fork of https://github.com/advanced-js/syllabus. If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
 
@@ -14,7 +15,7 @@ permalink: /
 
 ## Course Description
 
-It is a fast paced course starting from C#/.NET basics and quickly moving to more advanced object-oriented concepts and applications spanning numerical methods, computational mathematics and quantitative finance. 
+It is a fast-paced course starting from C#/.NET basics and quickly moving to more advanced object-oriented concepts and applications spanning numerical methods, computational mathematics and quantitative finance. 
 
 While it's an assignment-only course, the workload is still quite high and every year a few students fail this course. You will need to make sure you work through the tutorial sheets and lecture material regularly to clear-up any doubts as they come up and make the most of the teaching staff's help before heading off to work on the main project during the winter teaching vacation.
 
