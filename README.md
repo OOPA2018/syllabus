@@ -6,9 +6,9 @@ permalink: /
 #WORK IN PROGRESS
 
 # <img src="assets/logo.png" alt="class logo" class="logo"/> 
-# Object-Oriented Programming with Applications syllabus
+Object-Oriented Programming with Applications syllabus
 
-***Acknowledgement: This is a fork of https://github.com/advanced-js/syllabus. If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
+***Acknowledgement: This is a fork of [advanced-js syllabus](https://github.com/advanced-js/syllabus). If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document in the original repository.***
 
 * **Course:** [MATH11152](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11152.htm)
 * **Lecturer:** Witold Gawlikowicz, [v1wgawli@ed.ac.uk](mailto:v1wgawli@ed.ac.uk)
