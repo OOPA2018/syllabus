@@ -244,6 +244,6 @@ These apply to real life, as well.
 * Assignment 2 - 15%
 * Final Project – 80%
 
-## Statements on Plagiarism
-
+## Plagiarism
+Please familiarise yourself with the university guideliness on [avoiding plagiarism](https://www.ed.ac.uk/academic-services/students/conduct/academic-misconduct/plagiarism). 
 
