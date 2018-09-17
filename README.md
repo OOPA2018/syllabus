@@ -60,35 +60,40 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 6
 ### Week 4
 1. Lecture 7
-  * Source control
-  * Lab problem sheet overview
+   * Source control
+   * Lab problem sheet overview
 1. Lab
-1. Lab<br/>
-**Assignment 1 announced**
+1. Lab
+
+ ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 1 announced`
+
 ### Week 5
 1. Lecture 8
-   * Unit testing
-   * Lab problem sheet overview
+    * Unit testing
+    * Lab problem sheet overview
 1. Lab
 1. Lab
 ### Week 6
-<span style="color:red">**Assignment 1  due**</span>
+ ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 1 due on Monday at noon`
 1. Lecture 9
-   * C# style
-   * Lab problem sheet overview
+    * C# style
+    * Lab problem sheet overview
 1. Lab
 1. Lab
+
+ ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 2 announced`
 ### Week 7
 1. Lecture 10
-   * S.O.L.I.D design principles
-   * Lab problem sheet overview
+    * S.O.L.I.D design principles
+    * Lab problem sheet overview
 ### Week 8
+ ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 2 due on Monday at noon`
 1. Lecture 11
-   * Open to suggestions on more advanced programming concepts students may be insterested in
-   * Lab problem sheet overview
+    * Open to suggestions on more advanced programming concepts students may be insterested in
+    * Lab problem sheet overview
 ### Week 9
 1. Lecture 12
-   * Final project overview and discussion
+    * Final project overview and discussion
 
 ## Resources
 
