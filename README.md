@@ -28,10 +28,10 @@ Computers are provided in the lab.
 * This must **not be** your first programming course.  You should have done at least one semester of programming (using Matlab or R to draw some graphs doesn’t count).
 
 * This course is demanding as:
-** you need to know computational mathematics (nonlinear solvers, numerical integration, Monte-Carlo, finite difference PDE solvers, optimization), it is **assumed** that you know mostof this from your undergraduate studies
-** you need to know or like mathematical finance & derivative pricing 
-** you need to learn a new programming language – C#
-** you will need to a lot of time to work through the assignments
+  * you need to know computational mathematics (nonlinear solvers, numerical integration, Monte-Carlo, finite difference PDE solvers, optimization), it is **assumed** that you know mostof this from your undergraduate studies
+  * you need to know or like mathematical finance & derivative pricing 
+  * you need to learn a new programming language – C#
+  * you will need to a lot of time to work through the assignments
 
 * Consider [Python Programmin](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11199.htm) or [Scientific Computing](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11198.htm) for a course at a slower pace
 
@@ -72,12 +72,11 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 #### [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
 
-
-
 #### GitHub
 
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
+    * [Github extension for Visual studio](https://visualstudio.github.com/)
 
 ## Grading
 
