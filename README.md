@@ -63,7 +63,7 @@ All assignments are listed within the [Course Outline](#course-outline).
   * Source control
   * Lab problem sheet overview
 1. Lab
-1. Lab
+1. Lab<br/>
 **Assignment 1 announced**
 ### Week 5
 1. Lecture 8
@@ -72,7 +72,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lab
 1. Lab
 ### Week 6
-<span style="color:red">***Assignment 1  due**</span>
+<span style="color:red">**Assignment 1  due**</span>
 1. Lecture 9
    * C# style
    * Lab problem sheet overview
