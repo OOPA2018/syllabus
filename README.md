@@ -5,7 +5,7 @@ permalink: /
 
 #WORK IN PROGRESS
 
-# <img src="assets/logo.png" alt="class logo" class="logo"/>  Object-Oriented Programming with Applications syllabus
+# <img src="assets/logo.png" alt="class logo" class="logo"/><br/>Object-Oriented Programming with Applications syllabus
 
 ***Acknowledgement: This is a fork of [advanced-js syllabus](https://github.com/advanced-js/syllabus). If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document in the original repository.***
 
