@@ -12,7 +12,7 @@ permalink: /
 * **Course:** [MATH11152](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11152.htm)
 * **Course organiser:** Dr Goncalo Dos Reis, [g.dosreis@ed.ac.uk](mailto:g.dosreis@ed.ac.uk)
 * **Lecturer:** Witold Gawlikowicz, [v1wgawli@ed.ac.uk](mailto:v1wgawli@ed.ac.uk)
-* **Teaching Assistants:** Please refer to course's Learn page
+* **Teaching assistants:** Please refer to course's Learn page
 
 ## Course Description
 
