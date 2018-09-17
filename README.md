@@ -22,13 +22,21 @@ While it's an assignment-only course, the workload is quite heavy and every year
 
 Computers are provided in the lab.
 
-## Prerequisites
-
+## Prerequisites / Warning 
 * At least one semester of an undergraduate course dedicated to programming (in any language). Understanding of flow control, methods/functions and some basics of data structures. This requirement is for both UG students and PGT students from MSc programmes other than MSc Computational Mathematical Finance.
 
-* This must notbe your first programming course.  You should have done at least one semester of programming (using Matlab or R to draw some graphs doesn’t count).
+* This must **not be** your first programming course.  You should have done at least one semester of programming (using Matlab or R to draw some graphs doesn’t count).
+
+* This course is demanding as:
+** you need to know computational mathematics (nonlinear solvers, numerical integration, Monte-Carlo, finite difference PDE solvers, optimization), it is **assumed** that you know mostof this from your undergraduate studies
+** you need to know or like mathematical finance & derivative pricing 
+** you need to learn a new programming language – C#
+** you will need to a lot of time to work through the assignments
 
 * Consider [Python Programmin](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11199.htm) or [Scientific Computing](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11198.htm) for a course at a slower pace
+
+## Learning outcomes
+*
 
 ## Course Overview
 
@@ -40,7 +48,10 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 1
 1. Lecture 1
+   ** Visual Studio introduction
+   ** Hello World!
 1. Lecture 2
+   
 ### Week 2
 1. Lecture 3
 1. Lecture 4
@@ -59,20 +70,17 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Tools
 
+#### [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
+
 
 
 #### GitHub
 
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
-* GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 ## Grading
 
-* Exam - 0% (this is an assignment-only course)
 * Assignment 1 - 5%
 * Assignment 2 - 15%
 * Final Project – 80%
