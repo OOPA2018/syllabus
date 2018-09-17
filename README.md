@@ -36,9 +36,8 @@ Computers are provided in the lab.
 * Consider [Python Programmin](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11199.htm) or [Scientific Computing](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11198.htm) for a course at a slower pace
 
 ## Learning outcomes
-*
-
-## Course Overview
+* It is intended that students will demonstrate:
+  * 
 
 ## Homework/Projects
 
@@ -48,22 +47,46 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 1
 1. Lecture 1
-   ** Visual Studio introduction
-   ** Hello World!
+   * Visual Studio introduction
+   * Hello World!
 1. Lecture 2
-   
+1. Lab   
 ### Week 2
 1. Lecture 3
 1. Lecture 4
+1. Lab
 ### Week 3
 1. Lecture 5
 1. Lecture 6
 ### Week 4
+1. Lecture 7
+  * Source control
+  * Lab problem sheet overview
+1. Lab
+1. Lab
 ### Week 5
+1. Lecture 8
+  * Unit testing
+  * Lab problem sheet overview
+1. Lab
+1. Lab
 ### Week 6
+1. Lecture 9
+  * C# style
+  * Lab problem sheet overview
+1. Lab
+1. Lab
 ### Week 7
+1. Lecture 10
+  * S.O.L.I.D design principles
+  * Lab problem sheet overview
 ### Week 8
+1. Lecture 11
+  * Open to suggestions on more advanced programming concepts students may be insterested in
+  * Lab problem sheet overview
 ### Week 9
+1. Lecture 12
+  * Final project overview and discussion
 
 ## Resources
 
@@ -76,7 +99,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
-    * [Github extension for Visual studio](https://visualstudio.github.com/)
+    * [Github extension for Visual Studio](https://visualstudio.github.com/)
 
 ## Grading
 
