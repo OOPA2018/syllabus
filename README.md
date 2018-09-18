@@ -73,7 +73,7 @@ Speak with others and discuss but do not copy directly:
 
 Consult [learning materials](#learning-materials) when you're stuck or need to clarify some concepts, **but** always prioritise coding-time when studying - don't fool yourself that you're learning to code by reading lecture notes or a book on C# for two hours without touching the keyboard even once.
 
-## Homework/Projects
+## Homeworks/Project
 
 All assignments are listed within the [Course Outline](#course-outline).
 
