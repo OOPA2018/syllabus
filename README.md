@@ -80,7 +80,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 ## Course Outline
 
 ### Week 1
- * No lectures, please familiarise yourselves with the rest of the syllabus along with the lecture material and problem sheet for week 2
+ * No lectures or labs:
+    * please familiarise yourselves with the rest of the syllabus along with the lecture material and problem sheet for week 2
 
 ### Week 2
 1. Lecture 1
