@@ -52,9 +52,9 @@ It is intended that students will demonstrate:
    * extendible 
    * reusable 
  * familiarity with modern software-development tools including:
-  * source control
-  * unit testing
-  * continous integration server
+   * source control
+   * unit testing
+   * continous integration server
   
 by constructing relevant algorithms in labs / assignments
 ## How to succeed?
