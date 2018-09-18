@@ -60,15 +60,15 @@ by constructing relevant algorithms in labs / assignments
 ## How to succeed?
 No-one has learned programming by reading books or attendinglectures alone!
 
-You can only learn programming by actually coding up solutions to problems yourself.
- * Do write the code even when the exercise seems trivial
-  * Does it compile?  
-  * Does it run as expected?  
-  * Can you make it more efficient?  
-  * Will the code be understandable to someone else?
-  * Yoursef in a months time?
+You can only learn programming by actually coding up solutions to problems yourself:
+  * Do write the code even when the exercise seems trivial
+   * Does it compile?  
+   * Does it run as expected?  
+   * Can you make it more efficient?  
+   * Will the code be understandable to someone else?
+   * Yoursef in a months time?
   
-Speak with others and discuss but do not copy directly
+Speak with others and discuss but do not copy directly:
   * Don’t neglect the collaborative aspect - most of the professional development is done in teams.
 
 Consult [learning materials](#learning-materials) when you're stuck or need to clarify some concepts, **but** always prioritise coding-time when studying - don't fool yourself that you're learning to code by reading lecture notes or a book on C# for two hours without touching the keyboard even once.
