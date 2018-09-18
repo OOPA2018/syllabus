@@ -62,13 +62,9 @@ All assignments are listed within the [Course Outline](#course-outline).
     * Inheritence
     * Static methods and classes
 1. Lecture 4
-  * Exceptions
-  * Data structures:  
-   * vectors 
-   * matricies 
-   * lists 
-   * tuples
-  * Basic algorithm complexity
+   * Exceptions
+   * Data structures:  
+   * Basic algorithm complexity
 1. Lab
 ### Week 3
 1. Lecture 5
