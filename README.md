@@ -12,7 +12,8 @@ permalink: /
 * **Course:** [MATH11152](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11152.htm)
 * **Course organiser:** Dr Goncalo Dos Reis, [g.dosreis@ed.ac.uk](mailto:g.dosreis@ed.ac.uk)
 * **Lecturer:** Witold Gawlikowicz, [v1wgawli@ed.ac.uk](mailto:v1wgawli@ed.ac.uk)
-* **Teaching assistants:** Please refer to course's Learn page
+* **Teaching assistants and course secretary:** Please refer to course's [Learn page](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_3041284_1&course_id=_64789_1)
+* **Office hours:** The lecturer and one teaching assistant will be available in the lab room after the lab (Wednesdays 6-7pm)
 
 ## Course Description
 
@@ -168,12 +169,12 @@ All assignments are listed within the [Course Outline](#course-outline).
 ### Tools
 
 #### [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
+    * The free Community version will be enough for the purposes of this course
 
-#### GitHub
-
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
+#### Git and GitHub
     * [Github extension for Visual Studio](https://visualstudio.github.com/)
+    * [Official GitHub Help](https://help.github.com/)
+    
 
 ### Learning materials
 
