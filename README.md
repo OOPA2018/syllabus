@@ -80,7 +80,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 ## Course Outline
 
 ### Week 1
- * No lectures or labs:
+ * **No lectures or labs**:
     * please familiarise yourselves with the rest of the syllabus along with the lecture material and problem sheet for week 2
 
 ### Week 2
@@ -153,6 +153,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 11
     * Open to suggestions on more advanced programming concepts students may be insterested in
     * Lab problem sheet overview
+
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
 ### Week 10
 1. Lecture 12
