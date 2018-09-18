@@ -50,14 +50,36 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Visual Studio introduction
    * Hello World!
 1. Lecture 2
+   * Basic types, flow control (if / else) and methods 
+   * Scope of a variable
+   * Compiler is your friend
 1. Lab   
 ### Week 2
 1. Lecture 3
+   * Object-Oriented Programming concepts
+    * Objects, types, classes, methods, properties, events
+    * Encapsulation
+    * Inheritence
+    * Static methods and classes
 1. Lecture 4
+  * Exceptions
+  * Data structures:  
+   * vectors 
+   * matricies 
+   * lists 
+   * tuples
+  * Basic algorithm complexity
 1. Lab
 ### Week 3
 1. Lecture 5
+   * Using libraries
+    * Referencing other projects in solution
+    * NuGet package manager
+    * Closer look at a few libraries
 1. Lecture 6
+   * Excel integration
+   * Debugging
+   * Summary of the first 3 weeks of the course
 ### Week 4
 1. Lecture 7
    * Source control
@@ -69,7 +91,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 5
 1. Lecture 8
-    * Unit testing
+    * Importannce of testing, unit tests
     * Lab problem sheet overview
 1. Lab
 1. Lab
