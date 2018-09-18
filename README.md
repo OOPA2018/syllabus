@@ -55,6 +55,7 @@ It is intended that students will demonstrate:
   * source control
   * unit testing
   * continous integration server
+  
 by constructing relevant algorithms in labs / assignments
 
 ## Homework/Projects
