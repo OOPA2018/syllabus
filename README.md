@@ -36,8 +36,26 @@ Computers are provided in the lab.
 * Consider [Python Programmin](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11199.htm) or [Scientific Computing](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11198.htm) for a course at a slower pace
 
 ## Learning outcomes
-* It is intended that students will demonstrate:
-  * 
+It is intended that students will demonstrate:
+ * appropriate use of flow-control, encapsulation and data-types
+ * understanding of basic concepts of object oriented programming: 
+   * classes / objects
+   * inheritance
+   * interfaces
+ * ability to implement some numerical methods 
+   * root finding
+   * numerical integration
+   * finite-difference
+   * Monte-Carlo
+ * use of good programming style and writing of code that is:
+   * reliable
+   * extendible 
+   * reusable 
+ * familiarity with modern software-development tools including:
+  * source control
+  * unit testing
+  * continous integration server
+by constructing relevant algorithms in labs / assignments
 
 ## Homework/Projects
 
