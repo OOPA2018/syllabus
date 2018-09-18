@@ -60,7 +60,7 @@ by constructing relevant algorithms in labs / assignments
 ## How to succeed?
 No-one has learned programming by reading books or attendinglectures alone!
 
-You can only learn programming by actually coding up solutions to problems yourself
+You can only learn programming by actually coding up solutions to problems yourself.
  * Do write the code even when the exercise seems trivial
   * Does it compile?  
   * Does it run as expected?  
