@@ -155,9 +155,13 @@ All assignments are listed within the [Course Outline](#course-outline).
     * Lab problem sheet overview
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
+
 ### Week 10
 1. Lecture 12
     * Final project overview and discussion
+
+### Semester 2, Week 1
+ ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Final project due on Monday at noon`
 
 ## Resources
 
