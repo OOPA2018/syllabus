@@ -80,6 +80,9 @@ All assignments are listed within the [Course Outline](#course-outline).
 ## Course Outline
 
 ### Week 1
+ * No lectures, please familiarise yourselves with the rest of the syllabus along with the lecture material and problem sheet for week 2
+
+### Week 2
 1. Lecture 1
    * Visual Studio introduction
    * Hello World!
@@ -87,8 +90,9 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Basic types, flow control (if / else) and methods 
    * Scope of a variable
    * Compiler is your friend
-1. Lab   
-### Week 2
+1. Lab
+
+### Week 3
 1. Lecture 3
    * Object-Oriented Programming concepts
     * Objects, types, classes, methods, properties, events
@@ -100,7 +104,8 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Data structures:  
    * Basic algorithm complexity
 1. Lab
-### Week 3
+
+### Week 4
 1. Lecture 5
    * Using libraries
     * Referencing other projects in solution
@@ -110,7 +115,8 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Excel integration
    * Debugging
    * Summary of the first 3 weeks of the course
-### Week 4
+
+### Week 5
 1. Lecture 7
    * Source control
    * Lab problem sheet overview
@@ -119,13 +125,14 @@ All assignments are listed within the [Course Outline](#course-outline).
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 1 announced`
 
-### Week 5
+### Week 6
 1. Lecture 8
     * Importannce of testing, unit tests
     * Lab problem sheet overview
 1. Lab
 1. Lab
-### Week 6
+
+### Week 7
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 1 due on Monday at noon`
 1. Lecture 9
     * C# style
@@ -134,16 +141,19 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lab
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 2 announced`
-### Week 7
+ 
+### Week 8
 1. Lecture 10
     * S.O.L.I.D design principles
     * Lab problem sheet overview
-### Week 8
+
+### Week 9
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 2 due on Monday at noon`
 1. Lecture 11
     * Open to suggestions on more advanced programming concepts students may be insterested in
     * Lab problem sheet overview
-### Week 9
+ ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
+### Week 10
 1. Lecture 12
     * Final project overview and discussion
 
