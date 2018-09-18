@@ -57,6 +57,19 @@ It is intended that students will demonstrate:
   * continous integration server
   
 by constructing relevant algorithms in labs / assignments
+## How to succeed?
+No-one has learned programming by reading books or attendinglectures alone!
+
+You can only learn programming by actually coding up solutions to problems yourself
+ * Do write the code even when the exercise seems trivial
+  * Does it compile?  
+  * Does it run as expected?  
+  * Can you make it more efficient?  
+  * Will the code be understandable to someone else?
+  * Yoursef in a months time?
+Speak with others and discuss but do not copy directly
+  * Don’t neglect the collaborative aspect - most of the professional development is done in teams.
+ Consult [learning materials](#learning-materials) when you're stuck or need to clarify some concepts, **but** always prioritise coding-time when studying - don't fool yourself that you're learning how to code by reading lecture notes or a book on C# without touching the keyboard
 
 ## Homework/Projects
 
@@ -134,7 +147,6 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ## Resources
 
-
 ### Tools
 
 #### [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
@@ -144,6 +156,18 @@ All assignments are listed within the [Course Outline](#course-outline).
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
     * [Github extension for Visual Studio](https://visualstudio.github.com/)
+
+### Learning materials
+
+#### Books 
+
+ * [Wright, P. *Beginning Visual C# 2005 Express Edition*](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=TN_springer_s978-1-4302-0167-0_124533&context=PC&vid=44UOE_VU2&search_scope=default_scope&tab=default_tab&lang=en_US)
+ * [Duffy, D. J. and Germani, A. *C# for Financial Markets*](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51161114570002466&context=L&vid=44UOE_VU2&search_scope=default_scope&tab=default_tab&lang=en_US)
+ * Many other books on C# available via [DiscoverEd](https://discovered.ed.ac.uk), have a look
+
+#### Online resources
+  * [Offical C# guide from Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  * [stackoverflow](https://stackoverflow.com/questions/tagged/c%23)
 
 ## Grading
 
