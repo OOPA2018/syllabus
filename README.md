@@ -14,7 +14,7 @@ permalink: /
 * **Office hours:** The lecturer and one teaching assistant will be available in the lab room after the lab (Wednesdays 6-7pm)
 * **Discussion:** If you'd like to discuss anything to with the course you can write a message on Gitter (please note these are publicly visible, student only rooms will be created in due course)
    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OOPA2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-* **Bugs/Suggestions:** If you found any bugs in this syllabus or would like to make a suggestions please raise an [issue](https://github.com/OOPA2018/syllabus/issues)
+* **Bugs/Suggestions:** If you find any bugs in this syllabus or would like to make a suggestions please raise an [issue](https://github.com/OOPA2018/syllabus/issues) (GitHub account required)
 
 ## Course Description
 
@@ -30,7 +30,7 @@ Computers are provided in the lab.
 * This must **not be** your first programming course.  You should have done at least one semester of programming (using Matlab or R to draw some graphs doesn’t count).
 
 * This course is demanding as:
-  * you need to know computational mathematics (nonlinear solvers, numerical integration, Monte-Carlo, finite difference PDE solvers, optimization), it is **assumed** that you know mostof this from your undergraduate studies
+  * you need to know computational mathematics (nonlinear solvers, numerical integration, Monte-Carlo, finite difference PDE solvers, optimization), it is **assumed** that you know most of this from your undergraduate studies
   * you need to know or like mathematical finance & derivative pricing 
   * you need to learn a new programming language – C#
   * you will need to a lot of time to work through the assignments
