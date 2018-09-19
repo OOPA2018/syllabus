@@ -98,14 +98,15 @@ All assignments are listed within the [Course Outline](#course-outline).
 ### Week 3
 1. Lecture 3
    * Object-Oriented Programming concepts
-    * Objects, types, classes, methods, properties, events
-    * Encapsulation
-    * Inheritence
-    * Static methods and classes
+      * Objects, types, classes, methods, properties
+      * Encapsulation
+      * Inheritence
+      * Static methods and classes
 1. Lecture 4
    * Exceptions
-   * Data structures:  
+   * Data structures
    * Basic algorithm complexity
+   * What makes a good code?
 1. Lab
 
 ### Week 4
