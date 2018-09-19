@@ -89,7 +89,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. [Lecture 1](https://github.com/OOPA2018/Lecture-1/blob/master/Lecture1.pdf)
    * Visual Studio introduction
    * Hello World!
-1. Lecture 2
+1. [Lecture 2](https://github.com/OOPA2018/Lecture-2/blob/master/Lecture2.pdf)
    * Basic types, flow control (if / else) and methods 
    * Scope of a variable
    * Compiler is your friend
