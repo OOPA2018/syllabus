@@ -82,7 +82,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 ### Week 1
  * **No lectures or labs**:
     * Please familiarise yourself with the rest of the syllabus along with the lecture material and problem sheet for week 2
-    * Setup a GitHub account as we will be using these for assignments - come an say hello while you're at it (https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OOPA2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+    * Setup a GitHub account as we will be using it for assignments
 
 ### Week 2
 1. Lecture 1
