@@ -22,8 +22,6 @@ It is a fast-paced **level 11** postgraduate course starting from C#/.NET basics
 
 While it's an assignment-only course, the workload is quite heavy and every year a few students fail this course. You will need to make sure you work through the tutorial sheets and lecture material regularly to clear-up any doubts as they come up and make the most of the teaching staff's help before heading off to work on the main project during the winter teaching vacation.
 
-Computers are provided in the lab.
-
 ## Prerequisites / Warning 
 * At least one semester of an undergraduate course dedicated to programming (in any language). Understanding of flow control, methods/functions and some basics of data structures. This requirement is for both UG students and PGT students from MSc programmes other than MSc Computational Mathematical Finance.
 
