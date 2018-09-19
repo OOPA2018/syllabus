@@ -86,7 +86,7 @@ All assignments are listed within the [Course Outline](#course-outline).
   * Setup a [GitHub](https://github.com/) account as we will be using it for assignments
 
 ### Week 2
-1. Lecture 1
+1. [Lecture 1](https://github.com/OOPA2018/Lecture-1/blob/master/Lecture1.pdf)
    * Visual Studio introduction
    * Hello World!
 1. Lecture 2
