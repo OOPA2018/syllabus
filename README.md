@@ -93,7 +93,7 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Basic types, flow control (if / else) and methods 
    * Scope of a variable
    * Compiler is your friend
-1. Lab
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet1.pdf)
 
 ### Week 3
 1. Lecture 3
