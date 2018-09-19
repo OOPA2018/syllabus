@@ -83,7 +83,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 ### Week 1
   * **No lectures or labs**
   * Please familiarise yourself with the rest of the syllabus along with the lecture material and problem sheet for week 2
-  * Setup a GitHub account as we will be using it for assignments
+  * Setup a [GitHub](https://github.com/) account as we will be using it for assignments
 
 ### Week 2
 1. Lecture 1
