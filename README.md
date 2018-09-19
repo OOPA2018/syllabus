@@ -12,6 +12,9 @@ permalink: /
 * **Lecturer:** Witold Gawlikowicz, [v1wgawli@ed.ac.uk](mailto:v1wgawli@ed.ac.uk)
 * **Teaching assistants and course secretary:** Please refer to course's [Learn page](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_3041284_1&course_id=_64789_1)
 * **Office hours:** The lecturer and one teaching assistant will be available in the lab room after the lab (Wednesdays 6-7pm)
+* **Discussion:** If you'd like to discuss anything to with the course you can write a message on Gitter (please note these are publicly visible, student only rooms will be created in due course)
+   * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OOPA2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+* **Bugs/Suggestions:** If you found any bugs in this syllabus or would like to make a suggestions please raise an [issue](https://github.com/OOPA2018/syllabus/issues)
 
 ## Course Description
 
@@ -80,7 +83,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 1
  * **No lectures or labs**:
-    * please familiarise yourselves with the rest of the syllabus along with the lecture material and problem sheet for week 2
+    * Please familiarise yourself with the rest of the syllabus along with the lecture material and problem sheet for week 2
+    * Setup a GitHub account as we will be using these for assignments - come an say hello while you're at it (https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OOPA2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ### Week 2
 1. Lecture 1
