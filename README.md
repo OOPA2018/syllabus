@@ -16,6 +16,7 @@ permalink: /
    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OOPA2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 * **Bugs/Suggestions:** If you find any bugs in this syllabus or would like to make a suggestions please raise an [issue](https://github.com/OOPA2018/syllabus/issues) (GitHub account required)
 * **Updates:** The syllabus will be update to include links to lectures and problem sheets as they get released. Minor modifications may also happen. Please [watch it](https://help.github.com/articles/watching-and-unwatching-repositories/) to get notified of any changes (GitHub account requried)
+
 ## Course Description
 
 It is a fast-paced **level 11** postgraduate course starting from C#/.NET basics and quickly moving to more advanced object-oriented concepts and applications spanning numerical methods, computational mathematics and quantitative finance. 
