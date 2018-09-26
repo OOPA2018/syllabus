@@ -15,7 +15,7 @@ permalink: /
 * **Discussion:** If you'd like to discuss anything to do with the course you can write a message on Gitter (please note these are publicly visible, student only rooms will be created in due course)
    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OOPA2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 * **Bugs/Suggestions:** If you find any bugs in this syllabus or would like to make a suggestions please raise an [issue](https://github.com/OOPA2018/syllabus/issues) (GitHub account required)
-* **Updates:** The syllabus will be update to include links to lectures and problem sheets as they get released. Minor modifications may also happen. Please [watch it](https://help.github.com/articles/watching-and-unwatching-repositories/) to get notified of any changes (GitHub account requried)
+* **Updates:** The syllabus will be updated to include links to lectures and problem sheets as they get released. Minor modifications may also happen. Please [watch it](https://help.github.com/articles/watching-and-unwatching-repositories/) to get notified of any changes (GitHub account requried)
 
 ## Course Description
 
