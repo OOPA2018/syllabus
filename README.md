@@ -170,7 +170,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Tools
 
-#### [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
+#### [Visual Studio](https://visualstudio.microsoft.com/downloads/)
    * The free Community version will be enough for the purposes of this course
 
 #### Git and GitHub
