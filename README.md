@@ -34,7 +34,7 @@ While it's an assignment-only course, the workload is quite heavy and every year
   * you need to learn a new programming language – C#
   * you will need to a lot of time to work through the assignments
 
-* Consider [Python Programmin](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11199.htm) or [Scientific Computing](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11198.htm) for a course at a slower pace
+* Consider [Python Programming](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11199.htm) or [Scientific Computing](http://www.drps.ed.ac.uk/18-19/dpt/cxmath11198.htm) for a course at a slower pace
 
 ## Learning outcomes
 It is intended that students will demonstrate:
