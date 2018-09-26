@@ -59,7 +59,7 @@ It is intended that students will demonstrate:
   
 by constructing relevant algorithms in labs / assignments
 ## How to succeed?
-No-one has learned programming by reading books or attendinglectures alone!
+No-one has learned programming by reading books or attending lectures alone!
 
 You can only learn programming by actually coding up solutions to problems yourself:
   * Do write the code even when the exercise seems trivial
@@ -67,7 +67,7 @@ You can only learn programming by actually coding up solutions to problems yours
     * Does it run as expected?  
     * Can you make it more efficient?  
     * Will the code be understandable to someone else?
-    * Yoursef in a months time?
+    * Yoursef in a month's time?
   
 Speak with others and discuss but do not copy directly:
   * Don’t neglect the collaborative aspect - most of the professional development is done in teams.
