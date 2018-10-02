@@ -107,7 +107,7 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Data structures
    * Basic algorithm complexity
    * What makes a good code?
-1. Lab
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf)
 
 ### Week 4
 1. Lecture 5
@@ -119,12 +119,13 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Excel integration
    * Debugging
    * Summary of the first 3 weeks of the course
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf)
 
 ### Week 5
 1. Lecture 7
    * Source control
    * Lab problem sheet overview
-1. Lab
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet4.pdf)
 1. Lab
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 1 announced`
@@ -133,7 +134,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 8
     * Importannce of testing, unit tests
     * Lab problem sheet overview
-1. Lab
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet5.pdf)
 1. Lab
 
 ### Week 7
@@ -141,7 +142,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 9
     * C# style
     * Lab problem sheet overview
-1. Lab
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet6.pdf)
 1. Lab
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 2 announced`
