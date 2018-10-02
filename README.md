@@ -96,13 +96,13 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet1.pdf)
 
 ### Week 3
-1. Lecture 3
+1. [Lecture 3](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf)
    * Object-Oriented Programming concepts
       * Objects, types, classes, methods, properties
       * Encapsulation
       * Inheritence
       * Static methods and classes
-1. Lecture 4
+1. [Lecture 4](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf)
    * Exceptions
    * Data structures
    * Basic algorithm complexity
