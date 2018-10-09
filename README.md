@@ -165,7 +165,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
 
-1. Lecture 11 - Tuesday 4.00-6.00pm - *room TBC*
+1. Lecture 11 - **Tuesday 4.00-6.00pm** - *room TBC*
     * Final project overview and discussion   
     
 1. Lecture 12 - Wednesday
