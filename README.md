@@ -125,7 +125,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) - *Room TBC (we may move to a different lab, there will be an announcement made if that's the case)*
 
 ### Week 6
-1. Lecture 7
+1. Lecture 7 - *JCMB 5326*
    * Source control
    * Lab problem sheet overview
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet4.pdf)
@@ -134,7 +134,7 @@ All assignments are listed within the [Course Outline](#course-outline).
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 1 announced`
 
 ### Week 7
-1. Lecture 8
+1. Lecture 8 - *JCMB 5326*
     * Importannce of testing, unit tests
     * Lab problem sheet overview
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet5.pdf)
@@ -142,7 +142,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 8
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 1 due on Monday at noon`
-1. Lecture 9
+1. Lecture 9 - *JCMB 5326*
     * C# style
     * Lab problem sheet overview
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet6.pdf)
@@ -151,7 +151,7 @@ All assignments are listed within the [Course Outline](#course-outline).
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 2 announced`
  
 ### Week 9
-1. Lecture 10
+1. Lecture 10 - *JCMB 5326*
     * S.O.L.I.D design principles
     * Lab problem sheet overview
 1. Lab
@@ -159,10 +159,12 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 10
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 2 due on Monday at noon`
+
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
-1. Lecture 11 - Tuesday 4.00-6.00pm *room TBC*
-    * Final project overview and discussion    
- 
+
+1. Lecture 11 - Tuesday 4.00-6.00pm - *room TBC*
+    * Final project overview and discussion   
+    
 1. Lecture 12 - Wednesday
     * Open to suggestions on more advanced programming concepts students may be insterested in
     * Lab problem sheet overview
