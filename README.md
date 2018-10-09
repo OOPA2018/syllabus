@@ -93,10 +93,13 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Basic types, flow control (if / else) and methods 
    * Scope of a variable
    * Compiler is your friend
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet1.pdf)
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet1.pdf) [(solution)](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet1_solution.pdf)
 
 ### Week 3
-1. [Lecture 3](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf)
+  * **No lectures or labs (cancelled)**
+
+### Week 4
+1. [Lecture 3](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf) - JCMB 6206
    * Object-Oriented Programming concepts
       * Objects, types, classes, methods, properties
       * Encapsulation
@@ -107,10 +110,10 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Data structures
    * Basic algorithm complexity
    * What makes a good code?
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf)
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf) - JCMB 5205
 
-### Week 4
-1. Lecture 5
+### Week 5
+1. Lecture 5 - JCMB 5326
    * Using libraries
     * Referencing other projects in solution
     * NuGet package manager
@@ -119,9 +122,9 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Excel integration
    * Debugging
    * Summary of the first 3 weeks of the course
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf)
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) - Room TBC (we may move to a different lab, there will be an announcement made if that's the case)
 
-### Week 5
+### Week 6
 1. Lecture 7
    * Source control
    * Lab problem sheet overview
@@ -130,14 +133,14 @@ All assignments are listed within the [Course Outline](#course-outline).
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 1 announced`
 
-### Week 6
+### Week 7
 1. Lecture 8
     * Importannce of testing, unit tests
     * Lab problem sheet overview
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet5.pdf)
 1. Lab
 
-### Week 7
+### Week 8
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 1 due on Monday at noon`
 1. Lecture 9
     * C# style
@@ -147,22 +150,24 @@ All assignments are listed within the [Course Outline](#course-outline).
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 2 announced`
  
-### Week 8
+### Week 9
 1. Lecture 10
     * S.O.L.I.D design principles
     * Lab problem sheet overview
-
-### Week 9
- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 2 due on Monday at noon`
-1. Lecture 11
-    * Open to suggestions on more advanced programming concepts students may be insterested in
-    * Lab problem sheet overview
-
- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
+1. Lab
+1. Lab
 
 ### Week 10
-1. Lecture 12
-    * Final project overview and discussion
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 2 due on Monday at noon`
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
+1. Lecture 11 - Tuesday 4.00-6.00pm (room TBC)
+    * Final project overview and discussion    
+ 
+1. Lecture 12 - Thursday
+    * Open to suggestions on more advanced programming concepts students may be insterested in
+    * Lab problem sheet overview
+1. Lab
+1. Lab
 
 ### Semester 2, Week 1
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Final project due on Monday at noon`
