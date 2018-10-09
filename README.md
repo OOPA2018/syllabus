@@ -168,8 +168,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 12 - Wednesday
     * Open to suggestions on more advanced programming concepts students may be insterested in
     * Lab problem sheet overview
-1. Lab
-1. Lab
+1. Lab - Wednesday
+1. Lab - Wednesday
 
 ### Semester 2, Week 1
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Final project due on Monday at noon`
