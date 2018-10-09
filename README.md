@@ -102,26 +102,31 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. [Lecture 3](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf) - *JCMB 6206*
    * Object-Oriented Programming concepts
       * Objects, types, classes, methods, properties
+      * Static methods and classes
       * Encapsulation
       * Inheritence
-      * Static methods and classes
+      * Interfaces
+    * Generics
+    * Anonymous functions      
 1. [Lecture 4](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf)
-   * Exceptions
-   * Data structures
-   * Basic algorithm complexity
-   * What makes a good code?
+   * Enumeration types
+   * Value vs. reference types
+   * Exception handling
+   * Debugging
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf) - *JCMB 5205*
 
 ### Week 5
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 0 announced`
 1. Lecture 5 - *JCMB 5326*
+   * Data structures
+   * Basic algorithm complexity
    * Using libraries
     * Referencing other projects in solution
     * NuGet package manager
     * Closer look at a few libraries
 1. Lecture 6
    * Excel integration
-   * Debugging
+   * What makes a good code?
    * Summary of the first 3 weeks of the course
    * Quick overview of assignment 0 along with the submission & grading mechanism
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) - *Room TBC (we may move to a different lab, there will be an announcement made if that's the case)*
