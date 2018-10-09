@@ -123,6 +123,7 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Excel integration
    * Debugging
    * Summary of the first 3 weeks of the course
+   * Quick overview of assignment 0 along with the submission & grading mechanism
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) - *Room TBC (we may move to a different lab, there will be an announcement made if that's the case)*
 
 ### Week 6
