@@ -99,7 +99,7 @@ All assignments are listed within the [Course Outline](#course-outline).
   * **No lectures or labs (cancelled)**
 
 ### Week 4
-1. [Lecture 3](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf) - JCMB 6206
+1. [Lecture 3](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf) *JCMB 6206*
    * Object-Oriented Programming concepts
       * Objects, types, classes, methods, properties
       * Encapsulation
@@ -110,7 +110,7 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Data structures
    * Basic algorithm complexity
    * What makes a good code?
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf) - JCMB 5205
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf) *JCMB 5205*
 
 ### Week 5
 1. Lecture 5 - JCMB 5326
@@ -122,7 +122,7 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Excel integration
    * Debugging
    * Summary of the first 3 weeks of the course
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) - Room TBC (we may move to a different lab, there will be an announcement made if that's the case)
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) *Room TBC (we may move to a different lab, there will be an announcement made if that's the case)*
 
 ### Week 6
 1. Lecture 7
@@ -160,10 +160,10 @@ All assignments are listed within the [Course Outline](#course-outline).
 ### Week 10
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 2 due on Monday at noon`
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
-1. Lecture 11 - Tuesday 4.00-6.00pm (room TBC)
+1. Lecture 11 - Tuesday 4.00-6.00pm *room TBC*
     * Final project overview and discussion    
  
-1. Lecture 12 - Thursday
+1. Lecture 12 - Wednesday
     * Open to suggestions on more advanced programming concepts students may be insterested in
     * Lab problem sheet overview
 1. Lab
