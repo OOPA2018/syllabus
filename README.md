@@ -113,6 +113,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf) - *JCMB 5205*
 
 ### Week 5
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 0 announced`
 1. Lecture 5 - *JCMB 5326*
    * Using libraries
     * Referencing other projects in solution
@@ -125,6 +126,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) - *Room TBC (we may move to a different lab, there will be an announcement made if that's the case)*
 
 ### Week 6
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 0 due on Monday at noon`
 1. Lecture 7 - *JCMB 5326*
    * Source control
    * Lab problem sheet overview
@@ -199,6 +201,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ## Grading
 
+* Assignment 0 - 0% - feedback only
 * Assignment 1 - 5%
 * Assignment 2 - 15%
 * Final Project – 80%
