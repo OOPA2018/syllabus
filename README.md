@@ -99,7 +99,7 @@ All assignments are listed within the [Course Outline](#course-outline).
   * **No lectures or labs (cancelled)**
 
 ### Week 4
-1. [Lecture 3](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf) - *JCMB 6206*
+1. [Lecture 3](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf) - *JCMB 5326*
    * Object-Oriented Programming concepts
       * Objects, types, classes, methods, properties
       * Static methods and classes
