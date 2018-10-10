@@ -99,7 +99,7 @@ All assignments are listed within the [Course Outline](#course-outline).
   * **No lectures or labs (cancelled)**
 
 ### Week 4
-1. [Lecture 3](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf) - *JCMB 5326*
+1. [Lecture 3](https://github.com/OOPA2018/Lecture-3/blob/master/Lecture3.pdf) - *JCMB 5326*
    * Object-Oriented Programming concepts
       * Objects, types, classes, methods, properties
       * Static methods and classes
@@ -108,7 +108,7 @@ All assignments are listed within the [Course Outline](#course-outline).
       * Interfaces
     * Generics
     * Anonymous functions      
-1. [Lecture 4](https://github.com/OOPA2018/Lecture-3-4/blob/master/Lecture3and4.pdf)
+1. [Lecture 4](https://github.com/OOPA2018/Lecture-4/blob/master/Lecture4.pdf)
    * Enumeration types
    * Value vs. reference types
    * Exception handling
