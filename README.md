@@ -123,9 +123,9 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Data structures
    * Basic algorithm complexity
    * Using libraries
-    * Referencing other projects in solution
-    * NuGet package manager
-    * Closer look at a few libraries
+      * Referencing other projects in solution
+      * NuGet package manager
+      * Closer look at a few libraries
 1. Lecture 6 - *JCMB 5326*
    * Excel integration
    * What makes a good code?
