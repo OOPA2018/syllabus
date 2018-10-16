@@ -119,14 +119,14 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 5
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 0 announced`
-1. Lecture 5 - *JCMB 5326*
+1. [Lecture 5](https://github.com/OOPA2018/Lecture-5/blob/master/Lecture5.pdf) - *JCMB 5326*
    * Data structures
    * Basic algorithm complexity
    * Using libraries
       * NuGet package manager
       * Closer look at a few libraries
       * Referencing other projects in solution
-1. Lecture 6 - *JCMB 5326*
+1. [Lecture 6](https://github.com/OOPA2018/Lecture-6/blob/master/Lecture6.pdf) - *JCMB 5326*
    * Excel integration
    * What makes a good code?
    * Summary of the first 3 weeks of the course
