@@ -11,7 +11,7 @@ permalink: /
 * **Course organiser:** Dr Goncalo Dos Reis, [g.dosreis@ed.ac.uk](mailto:g.dosreis@ed.ac.uk)
 * **Lecturer:** Witold Gawlikowicz, [v1wgawli@ed.ac.uk](mailto:v1wgawli@ed.ac.uk)
 * **Teaching assistants and course secretary:** Please refer to course's [Learn page](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_3041284_1&course_id=_64789_1)
-* **Office hours:** The lecturer and one teaching assistant will be available in the lab room after the lab (Wednesdays 6-7pm)
+* **Office hours:** The lecturer and one teaching assistant will be available in JCMB 5205 (Wednesdays 6-7pm)
 * **Discussion:** If you'd like to discuss anything to do with the course you can write a message on Gitter (please note these are publicly visible, student only rooms will be created in due course)
    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OOPA2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 * **Bugs/Suggestions:** If you find any bugs in this syllabus or would like to make a suggestions please raise an [issue](https://github.com/OOPA2018/syllabus/issues) (GitHub account required)
@@ -124,20 +124,22 @@ All assignments are listed within the [Course Outline](#course-outline).
     * Referencing other projects in solution
     * NuGet package manager
     * Closer look at a few libraries
-1. Lecture 6
+1. Lecture 6 - *JCMB 5326*
    * Excel integration
    * What makes a good code?
    * Summary of the first 3 weeks of the course
    * Quick overview of assignment 0 along with the submission & grading mechanism
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) - *Room TBC (we may move to a different lab, there will be an announcement made if that's the case)*
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) - [KB Centre level 3](https://www.ed.ac.uk/maps/maps?building=kings-buildings-centre)
+1. Office hour - *JCMB 5205*
 
 ### Week 6
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 0 due on Monday at noon`
 1. Lecture 7 - *JCMB 5326*
    * Source control
    * Lab problem sheet overview
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet4.pdf)
-1. Lab
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet4.pdf) - *KB Center level 3*
+1. Lab - *KB Center level 3*
+1. Office hour - *JCMB 5205*
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 1 announced`
 
@@ -145,16 +147,18 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 8 - *JCMB 5326*
     * Importannce of testing, unit tests
     * Lab problem sheet overview
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet5.pdf)
-1. Lab
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet5.pdf) - *KB Center level 3*
+1. Lab - *KB Center level 3*
+1. Office hour - *JCMB 5205*
 
 ### Week 8
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 1 due on Monday at noon`
 1. Lecture 9 - *JCMB 5326*
     * C# style
     * Lab problem sheet overview
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet6.pdf)
-1. Lab
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet6.pdf) - *KB Center level 3*
+1. Lab - *KB Center level 3*
+1. Office hour - *JCMB 5205*
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 2 announced`
  
@@ -162,8 +166,9 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 10 - *JCMB 5326*
     * S.O.L.I.D design principles
     * Lab problem sheet overview
-1. Lab
-1. Lab
+1. Lab - *KB Center level 3*
+1. Lab - *KB Center level 3*
+1. Office hour - *JCMB 5205*
 
 ### Week 10
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 2 due on Monday at noon`
@@ -173,11 +178,12 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 11 - **Tuesday 4.00-6.00pm** - *room TBC*
     * Final project overview and discussion   
     
-1. Lecture 12 - Wednesday
+1. Lecture 12 - Wednesday - *JCMB 5326*
     * Open to suggestions on more advanced programming concepts students may be insterested in
     * Lab problem sheet overview
-1. Lab - Wednesday
-1. Lab - Wednesday
+1. Lab - Wednesday - *KB Center level 3*
+1. Lab - Wednesday - *KB Center level 3*
+1. Office hour - *JCMB 5205*
 
 ### Semester 2, Week 1
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Final project due on Monday at noon`
