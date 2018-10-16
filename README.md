@@ -94,6 +94,7 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Scope of a variable
    * Compiler is your friend
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet1.pdf) [(solution)](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet1_solution.pdf)
+1. Office hour - *JCMB 5205*
 
 ### Week 3
   * **No lectures or labs (cancelled)**
@@ -114,6 +115,7 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Exception handling
    * Debugging
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf) - *JCMB 5205*
+1. Office hour - *JCMB 5205*
 
 ### Week 5
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 0 announced`
