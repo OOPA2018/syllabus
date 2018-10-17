@@ -155,7 +155,17 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 8
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 1 due on Monday at noon`
-1. Lecture 9 - *JCMB 5326*
+ 
+**Tuesday:**
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
+
+1. Lecture 9 - **4.00-6.00pm** - *room TBC*
+    * Final project overview and discussion   
+ 
+ **Wednesday:**
+ 
+1. Lecture 10 - *JCMB 5326*
     * C# style
     * Lab problem sheet overview
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet6.pdf) - *KB Center level 3*
@@ -165,7 +175,7 @@ All assignments are listed within the [Course Outline](#course-outline).
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 2 announced`
  
 ### Week 9
-1. Lecture 10 - *JCMB 5326*
+1. Lecture 11 - *JCMB 5326*
     * S.O.L.I.D design principles
     * Lab problem sheet overview
 1. Lab - *KB Center level 3*
@@ -174,17 +184,12 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 10
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 2 due on Monday at noon`
-
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
-
-1. Lecture 11 - **Tuesday 4.00-6.00pm** - *room TBC*
-    * Final project overview and discussion   
     
-1. Lecture 12 - Wednesday - *JCMB 5326*
+1. Lecture 12 - *JCMB 5326*
     * Open to suggestions on more advanced programming concepts students may be insterested in
     * Lab problem sheet overview
-1. Lab - Wednesday - *KB Center level 3*
-1. Lab - Wednesday - *KB Center level 3*
+1. Lab - *KB Center level 3*
+1. Lab - *KB Center level 3*
 1. Office hour - *JCMB 5205*
 
 ### Semester 2, Week 1
