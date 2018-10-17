@@ -156,7 +156,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 ### Week 8
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 1 due on Monday at noon`
  
-**Tuesday (13 November):**
+**Tuesday:**
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
 
