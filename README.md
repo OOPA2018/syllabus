@@ -136,7 +136,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Week 6
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 0 due on Monday at noon`
-1. Lecture 7 - *JCMB 5326*
+1. [Lecture 7](https://github.com/OOPA2018/Lecture-7/blob/master/Lecture7.pdf) - *JCMB 5326*
    * Source control
    * Lab problem sheet overview
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet4.pdf) - *JCMB 5205*
