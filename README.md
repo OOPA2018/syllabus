@@ -94,13 +94,13 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Scope of a variable
    * Compiler is your friend
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet1.pdf) [(solution)](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet1_solution.pdf)
-1. Office hour - *JCMB 5205*
+1. Office hour
 
 ### Week 3
   * **No lectures or labs (cancelled)**
 
 ### Week 4
-1. [Lecture 3](https://github.com/OOPA2018/Lecture-3/blob/master/Lecture3.pdf) - *JCMB 5326*
+1. [Lecture 3](https://github.com/OOPA2018/Lecture-3/blob/master/Lecture3.pdf)
    * Object-Oriented Programming concepts
       * Objects, types, classes, methods, properties
       * Static methods and classes
@@ -114,25 +114,25 @@ All assignments are listed within the [Course Outline](#course-outline).
    * Value vs. reference types
    * Exception handling
    * Debugging
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf) - *JCMB 5205*
-1. Office hour - *JCMB 5205*
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2.pdf) [(solution)](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet2_solution.pdf)
+1. Office hour
 
 ### Week 5
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 0 announced`
-1. [Lecture 5](https://github.com/OOPA2018/Lecture-5/blob/master/Lecture5.pdf) - *JCMB 5326*
+1. [Lecture 5](https://github.com/OOPA2018/Lecture-5/blob/master/Lecture5.pdf)
    * Data structures
    * Basic algorithm complexity
    * Using libraries
       * NuGet package manager
       * Closer look at a few libraries
       * Referencing other projects in solution
-1. [Lecture 6](https://github.com/OOPA2018/Lecture-6/blob/master/Lecture6.pdf) - *JCMB 5326*
+1. [Lecture 6](https://github.com/OOPA2018/Lecture-6/blob/master/Lecture6.pdf)
    * Excel integration
    * What makes a good code?
    * Summary of the first 3 weeks of the course
    * Quick overview of assignment 0 along with the submission & grading mechanism
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) - [KB Centre level 3](https://www.ed.ac.uk/maps/maps?building=kings-buildings-centre)
-1. Office hour - *JCMB 5205*
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3.pdf) [(solution)](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet3_solution.pdf)
+1. Office hour
 
 ### Week 6
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 0 due on Monday at noon`
