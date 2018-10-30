@@ -149,8 +149,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 8 - *JCMB 5326*
     * Importannce of testing, unit tests
     * Lab problem sheet overview
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet5.pdf) - *JCMB 5205*
-1. Lab - *JCMB 5205*
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet5.pdf) - *KB Center level 3*
+1. Lab - *KB Center level 3*
 1. Office hour - *JCMB 5205*
 
 ### Week 8
@@ -159,8 +159,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 9 - *JCMB 5326*
     * C# style
     * Lab problem sheet overview
-1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet6.pdf) - *JCMB 5205*
-1. Lab - *JCMB 5205*
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet6.pdf) - *KB Center level 3*
+1. Lab - *KB Center level 3*
 1. Office hour - *JCMB 5205*
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 2 announced`
@@ -179,8 +179,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 11 - *JCMB 5326*
     * S.O.L.I.D design principles
     * Lab problem sheet overview
-1. Lab - *JCMB 5205*
-1. Lab - *JCMB 5205*
+1. Lab - *KB Center level 3*
+1. Lab - *KB Center level 3*
 1. Office hour - *JCMB 5205*
 
 ### Week 10
@@ -189,8 +189,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 12 - *JCMB 5326*
     * Open to suggestions on more advanced programming concepts students may be insterested in
     * Lab problem sheet overview
-1. Lab - *JCMB 5205*
-1. Lab - *JCMB 5205*
+1. Lab - *KB Center level 3*
+1. Lab - *KB Center level 3*
 1. Office hour - *JCMB 5205*
 
 ### Semester 2, Week 1
