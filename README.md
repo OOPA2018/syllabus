@@ -146,7 +146,7 @@ All assignments are listed within the [Course Outline](#course-outline).
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Assignment 1 announced`
 
 ### Week 7
-1. Lecture 8 - *JCMB 5326*
+1. [Lecture 8](https://github.com/OOPA2018/Lecture-8/blob/master/Lecture8.pdf) - *JCMB 5326*
     * Importannce of testing, unit tests
     * Lab problem sheet overview
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet5.pdf) - *KB Center level 3*
