@@ -156,7 +156,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 ### Week 8
  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 1 due on Monday at noon`
  
-1. Lecture 9 - *JCMB 5326*
+1. [Lecture 9](https://github.com/OOPA2018/Lecture-9/blob/master/Lecture9.pdf) - *JCMB 5326*
     * C# style
     * Lab problem sheet overview
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet6.pdf) - *KB Center level 3*
