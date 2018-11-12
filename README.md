@@ -169,7 +169,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 **Tuesday:**
 
-1. Lecture 10 - **4.00-6.00pm** - *room TBC*
+1. Lecture 10 - **4.00-6.00pm** - *JCMB 5328*
     * Final project overview and discussion   
  
  **Wednesday:**
@@ -185,9 +185,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Assignment 2 due on Monday at noon`
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Final project published`
-1. Lecture 12 - *JCMB 5326*
-    * Open to suggestions on more advanced programming concepts students may be insterested in
-    * Lab problem sheet overview
+1. Lab - *KB Center level 3*
 1. Lab - *KB Center level 3*
 1. Lab - *KB Center level 3*
 1. Office hour - *JCMB 5205*
