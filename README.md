@@ -177,7 +177,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Lecture 11 - *JCMB 5326*
     * S.O.L.I.D design principles
     * Lab problem sheet overview
-1. Lab - *KB Center level 3*
+1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet7/ProblemSheet7.pdf) - *KB Center level 3*
 1. Lab - *KB Center level 3*
 1. Office hour - *JCMB 5205*
 
