@@ -174,7 +174,7 @@ All assignments are listed within the [Course Outline](#course-outline).
  
  **Wednesday:**
 
-1. Lecture 11 - *JCMB 5326*
+1. [Lecture 11](https://github.com/OOPA2018/Lecture-11/blob/master/Lecture11.pdf) - *JCMB 5326*
     * S.O.L.I.D design principles
     * Lab problem sheet overview
 1. [Lab](https://github.com/OOPA2018/Problem-sheets/blob/master/ProblemSheet7/ProblemSheet7.pdf) - *KB Center level 3*
